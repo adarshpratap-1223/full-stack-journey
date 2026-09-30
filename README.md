@@ -4,3 +4,4 @@ Semantic tags
 Links & images
 Lists
 Figures & captions
+main,section,id&class
